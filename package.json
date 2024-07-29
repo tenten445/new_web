@@ -1,7 +1,7 @@
 {
   "name": "sample-webpage",
   "version": "0.1.0",
-  "homepage": "https://tenten445.github.io/sample-webpage",
+  "homepage": "https://tenten445.github.io/new_web",
   "private": true,
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
@@ -14,15 +14,12 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-
     "prebuild": "mkdir -p docs",
-    
     "postbuild": "cp -r build/* docs/"
-
   },
   "eslintConfig": {
     "extends": [
@@ -44,5 +41,12 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
-  }
+  },
+  "description": "以下 (https://helixcode.notion.site/React-Web-b9fa86c079ba47248882b5b0d5b6dd6e) を参考に作ったページです ## Thanks わにゃ",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "author": "",
+  "license": "ISC"
 }

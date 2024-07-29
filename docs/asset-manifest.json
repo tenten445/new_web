@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sample-webpage/static/css/main.ce2061a0.chunk.css",
-    "main.js": "/sample-webpage/static/js/main.95e927e0.chunk.js",
-    "main.js.map": "/sample-webpage/static/js/main.95e927e0.chunk.js.map",
-    "runtime~main.js": "/sample-webpage/static/js/runtime~main.0767ca07.js",
-    "runtime~main.js.map": "/sample-webpage/static/js/runtime~main.0767ca07.js.map",
-    "static/js/2.bbc244fd.chunk.js": "/sample-webpage/static/js/2.bbc244fd.chunk.js",
-    "static/js/2.bbc244fd.chunk.js.map": "/sample-webpage/static/js/2.bbc244fd.chunk.js.map",
-    "static/js/3.a29efab2.chunk.js": "/sample-webpage/static/js/3.a29efab2.chunk.js",
-    "static/js/3.a29efab2.chunk.js.map": "/sample-webpage/static/js/3.a29efab2.chunk.js.map",
-    "index.html": "/sample-webpage/index.html",
-    "precache-manifest.cb6a24d6b087e48dc048e30ff2bca562.js": "/sample-webpage/precache-manifest.cb6a24d6b087e48dc048e30ff2bca562.js",
-    "service-worker.js": "/sample-webpage/service-worker.js",
-    "static/css/main.ce2061a0.chunk.css.map": "/sample-webpage/static/css/main.ce2061a0.chunk.css.map",
-    "static/media/fig.jpg": "/sample-webpage/static/media/fig.6b8d1792.jpg"
+    "main.css": "/new_web/static/css/main.ce2061a0.chunk.css",
+    "main.js": "/new_web/static/js/main.95e927e0.chunk.js",
+    "main.js.map": "/new_web/static/js/main.95e927e0.chunk.js.map",
+    "runtime~main.js": "/new_web/static/js/runtime~main.9f7241ec.js",
+    "runtime~main.js.map": "/new_web/static/js/runtime~main.9f7241ec.js.map",
+    "static/js/2.bbc244fd.chunk.js": "/new_web/static/js/2.bbc244fd.chunk.js",
+    "static/js/2.bbc244fd.chunk.js.map": "/new_web/static/js/2.bbc244fd.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/new_web/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/new_web/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/new_web/index.html",
+    "precache-manifest.7a2704e77cc40270f1a2eecc8a03b53a.js": "/new_web/precache-manifest.7a2704e77cc40270f1a2eecc8a03b53a.js",
+    "service-worker.js": "/new_web/service-worker.js",
+    "static/css/main.ce2061a0.chunk.css.map": "/new_web/static/css/main.ce2061a0.chunk.css.map",
+    "static/media/fig.jpg": "/new_web/static/media/fig.6b8d1792.jpg"
   }
 }
